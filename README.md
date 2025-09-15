@@ -55,3 +55,6 @@ Each pattern is implemented with real-world inspired examples and well-commented
    ```bash
    git clone git@github.com:Temptation4/java-design-patterns.git
    cd java-design-patterns
+
+   ## 👨‍💻 Author
+Neelu Sahai  
